@@ -33,7 +33,7 @@ public class Main {
             }
 
             case (4): {
-
+                new WordsFreq().run();
                 break;
             }
 
